@@ -1,5 +1,5 @@
 class HomesController < ApplicationController
-def top
-	ssh
-end
+	def top
+
+	end
 end
